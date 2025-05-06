@@ -1,9 +1,7 @@
-pip install --upgrade pip
-pip install python-telegram-bot python-telegram-bot[inline]  # Install the required library
-pip install pyrogram
-pip install pytgcalls 
-pip install pyrogram
-PIP install telegram
-pip install pydub 
-pip install ffmpeg
-pip install --upgrade pytgcalls
+pip>=23.0.0
+python-telegram-bot[inline]
+pyrogram
+pytgcalls
+telegram
+pydub
+ffmpeg
