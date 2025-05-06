@@ -1,7 +1,6 @@
 pip>=23.0.0
 python-telegram-bot[inline]
 pyrogram
-pytgcalls
 telegram
 pydub
 ffmpeg
