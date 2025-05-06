@@ -124,7 +124,6 @@ async def handle_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 waiting_users.add(partner_id)
                 await update.message.reply_text("⏳ Still waiting for a new partner...")
                 return
-
             active_chats[user_id] = partner_id
             active_chats[partner_id] = user_id
             await context.bot.send_message(partner_id, "✅ New stranger connected!")
