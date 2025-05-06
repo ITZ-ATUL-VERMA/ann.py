@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 import re
 
 # === Configuration ===
-BOT_TOKEN = "8126685057:AAGFOyrQDZZUhFfWBzTRlawK7IxJL2Ur_4Q"
+BOT_TOKEN = "7160556695:AAHyb1eJtRxckxJdmilyqbRXWTjUBjMDaUo"
 GROUP_USERNAME = "@omegle_chat1"
 OWNER_ID = 5674660386 # Replace with your Telegram numeric ID
 
