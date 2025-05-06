@@ -3,4 +3,3 @@ python-telegram-bot[inline]
 pyrogram
 telegram
 pydub
-ffmpeg
