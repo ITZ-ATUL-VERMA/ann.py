@@ -1,0 +1,9 @@
+BOT_TOKEN = "7911037262:AAG1H5Rf_cUwUhNKMzCFDKqK2E0Np4w4VrQ"  # Replace with your bot token
+GROUP_USERNAME = "@omegle_chat1"  # Replace with your group username
+pip install python-telegram-bot python-telegram-bot[inline]  # Install the required library
+pip install pyrogram
+pip install pytgcalls 
+pip install pyrogram
+PIP install telegram
+pip install pydub 
+pip install ffmpeg
